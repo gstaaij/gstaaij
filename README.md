@@ -1,1 +1,1 @@
-# I'm moving to [Codeberg](https://codeberg.org/gstaaij)
+## My personal projects have moved to [Codeberg](https://codeberg.org/gstaaij)
